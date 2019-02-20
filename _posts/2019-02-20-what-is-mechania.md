@@ -22,7 +22,7 @@ author:
 
 Mechania is a unique realm consisting of distinct worlds filled with custom mobs, generation, and gameplay mechanics, all intertwined with the vast concepts of magic and technology - in basic language, this is an adventure/survival public server powered by data packs and plugins.
 
-### How can I play Artefact?
+### How can I play Mechania?
 Mechania is still in quite early development. We are trying so hard to get it complete as soon as possible, but it still means that you'll have to wait a while for release. As soon as it is polished like a good block of andesite, it will be free-to-play.
 
 ### How can we help?
