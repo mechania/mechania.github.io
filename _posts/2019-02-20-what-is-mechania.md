@@ -20,10 +20,10 @@ author:
       url: "https://github.com/mechania"
 ---
 
-Mechania is a unique realm consisting of distinct worlds filled with custom mobs, generation, and gameplay mechanics, all intertwined with the vast concepts of magic and technology - in basic language, this is an adventure/survival public server powered by data packs and plugins.
+Mechania is a unique realm consisting of distinct worlds filled with custom mobs, generation, and gameplay mechanics, all intertwined with the vast concepts of magic and technology - in basic language, this is an adventure/survival public server powered by data packs and Spigot plugins.
 
 ### How can I play Mechania?
-Mechania is still in quite early development. We are trying so hard to get it complete as soon as possible, but it still means that you'll have to wait a while for release. As soon as it is polished like a good block of andesite, it will be free-to-play.
+Mechania is still in quite early development. We are trying very hard to complete it as soon as possible, but it still means that you'll have to wait a while for release. As soon as it is polished like a good block of andesite, it will be free-to-play.
 
 ### How can we help?
 The easiest way to give help and feedback would be to give us a message in the [`#suggestions`](https://discordapp.com/channels/475107516330541057/527959338434822154) channel in our [Discord](https://discord.gg/dwBDrp3). Expect a response in about up to a day!
