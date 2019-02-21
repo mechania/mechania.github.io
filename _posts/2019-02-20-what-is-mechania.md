@@ -18,6 +18,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mechania"
+    - label: "Minecraft Forum Post"
+      icon: "fab fa-fw fa-paperclip"
+      url: "https://www.minecraftforum.net/forums/servers-java-edition/server-recruitment/2919839-mechania-a-magical-and-technological-adventure"
 ---
 
 Mechania is a unique realm consisting of distinct worlds filled with custom mobs, generation, and gameplay mechanics, all intertwined with the vast concepts of magic and technology - in basic language, this is an adventure/survival public server powered by data packs and Spigot plugins.
