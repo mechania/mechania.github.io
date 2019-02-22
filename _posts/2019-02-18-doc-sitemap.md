@@ -3,6 +3,8 @@ title: "Sitemap"
 excerpt: "All posts and documentations"
 permalink: /sitemap/
 author_profile: false
+categories:
+  - Information
 sidebar:
   title: "Documentation"
   nav: docs

@@ -2,6 +2,8 @@
 title: "What is Mechania?"
 excerpt: "Mechania is a unique realm consisting of distinct worlds filled with custom mobs, generation, and gameplay mechanics"
 permalink: /posts/what-is-mechania
+categories:
+  - Information
 toc: true
 author_profile: true
 
