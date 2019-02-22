@@ -140,6 +140,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mechania"
+    - label: "Store"
+      icon: "fas fa-fw fa-link"
+      url: "https://mechania.buycraft.net"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
