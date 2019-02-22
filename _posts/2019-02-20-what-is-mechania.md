@@ -4,6 +4,7 @@ excerpt: "Mechania is a unique realm consisting of distinct worlds filled with c
 permalink: /posts/what-is-mechania
 categories:
   - Information
+  - Posts
 toc: true
 author_profile: true
 
