@@ -18,8 +18,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mechania"
-    - label: "Minecraft Forum Post"
-      icon: "fab fa-fw fa-paperclip"
+    - label: "Mechania Forum Post"
+      icon: "fas fa-fw fa-link"
       url: "https://www.minecraftforum.net/forums/servers-java-edition/server-recruitment/2919839-mechania-a-magical-and-technological-adventure"
 ---
 
