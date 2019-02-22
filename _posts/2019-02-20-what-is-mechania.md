@@ -31,4 +31,4 @@ Mechania is still in quite early development. We are trying very hard to complet
 ### How can we help?
 The easiest way to give help and feedback would be to give us a message in the [`#suggestions`](https://discordapp.com/channels/475107516330541057/527959338434822154) channel in our [Discord](https://discord.gg/dwBDrp3). Expect a response within a few hours! Additionally, you can visit Mechania's [Minecraft Forum post](https://www.minecraftforum.net/forums/servers-java-edition/server-recruitment/2919839-mechania-a-magical-and-technological-adventure) to apply for a developer position.
 
-![Old Mechania Logo](https://mechania.github.io/assets/images/mechania_old.png)
+<div style="text-align:center"><img src ="https://mechania.github.io/assets/images/mechania_old.png" /></div>
