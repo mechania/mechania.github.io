@@ -2,6 +2,8 @@
 main:
   - title: "Sitemap"
     url: /sitemap/
+  - title: "About"
+    url: /posts/what-is-mechania
 
 #documentation sidebar
 #docs:
