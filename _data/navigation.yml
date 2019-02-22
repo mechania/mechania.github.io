@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Sitemap"
-    url: /categories
+    url: /categories/
   - title: "About"
     url: /posts/what-is-mechania
 
